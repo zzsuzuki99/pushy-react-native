@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license         = { :type => 'Apache-2.0', :file => 'LICENSE' }
 
   s.platform        = :ios
-  s.source          = { :git => 'https://github.com/pushy-me/pushy-react-native.git', :tag => s.version }
+  s.source          = { :git => 'https://github.com/zzsuzuki99/pushy-react-native.git', :tag => s.version }
   s.source_files    = 'ios/*.{h,m,swift}'
   s.requires_arc    = true
 
